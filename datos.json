@@ -1,0 +1,12 @@
+[
+  { "nombre": "Monitor Gamer 27 144Hz", "precio": 4500.00 },
+  { "nombre": "Tarjeta Gráfica RTX 4060", "precio": 6800.00 },
+  { "nombre": "Procesador Ryzen 7 5700X", "precio": 3900.00 },
+  { "nombre": "Tarjeta Madre B550", "precio": 2300.00 },
+  { "nombre": "Fuente de Poder 650W 80 Plus", "precio": 1450.00 },
+  { "nombre": "Gabinete Cristal Templado", "precio": 1200.00 },
+  { "nombre": "Unidad SSD NVMe 1TB", "precio": 1350.00 },
+  { "nombre": "Disipador de Aire RGB", "precio": 650.00 },
+  { "nombre": "Pasta Térmica Arctic MX-4", "precio": 180.00 },
+  { "nombre": "Kit Ventiladores ARGB x3", "precio": 520.00 }
+]
